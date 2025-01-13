@@ -39,5 +39,15 @@ return {
     "LKAdnem132M", --1 month
     "POJKdnem32M", --1 month
     "PIJdnem324M", --1 month
-    "LOCKdnem13M"
+    "LOCKdnem13M", --1 month
+    "Xyz7890QWERTY", --1 days("test key")
+    "QWErty456ASD", --1 days("test key")
+    "Zxcvbnm321RTY", --1 days("test key")
+    "Hgfdsaz098PLM", --1 days("test key")
+    "Yuiop456JKL", --1 days("test key")
+    "Mnbvcxz123FGH", --1 days("test key")
+    "Qazwsx789TRE", --1 days("test key")
+    "Plmokn456VBN", --1 days("test key")
+    "Asdfghjkl123QW", --1 days("test key")
+    "Abcdef123XY"
 }
