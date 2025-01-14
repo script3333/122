@@ -30,5 +30,6 @@ return {
     "c9dbad26-5631-4318-8ad9-5ad4e3edd6a9",
     "e2bd6518-b40b-42f9-b459-04363e0cb169", --life time("@Tokiomik")
     "1d9d7762-b473-459e-a6b0-e3e262b63de8",
-    "923c0642-db10-4f51-8aec-c0c6f0f17af2" --life time("@Fhflhdkdk")
+    "923c0642-db10-4f51-8aec-c0c6f0f17af2", --life time("@Fhflhdkdk")
+    "6fe51de8-e018-4331-918a-e18ec0a01ddd" --1week
 }
