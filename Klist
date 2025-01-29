@@ -1,141 +1,23 @@
 return {
-    "K4j1Q8z0M9v7T3",--media2
+    "K4j1Q8z0M9v7T3",
     "P2x6R4a8W1y0L5",
     "F7o9U3k1Z2m6X8",
-    "C5t0V4h3B2y7N9", --tester
+    "C5t0V4h3B2y7N9", 
     "A8r1L6z5J3W0K4",
     "N7x2M4o9P1v6T8",
     "G0k3F9U5B1W2Z6",
     "V8y0R7m4T3a1L9",
     "P6z2X1N8o5W3k9",
-    "T4m9U7C1F0k8J2", --media
-    "L3a6B8o1R7V5z0", --tester2
-    "W9t2M4y8X3Z0K7",--coder2
+    "T4m9U7C1F0k8J2", 
+    "L3a6B8o1R7V5z0", 
+    "W9t2M4y8X3Z0K7",
     "F5o7P1z9T4N2L8",
-    "K0B6X3a9U1W7m2", --lifetime(blur)
-    "C8v4N2T5L0z1P3", --lifetime(anteyko
-    "sigmakey",
-    "Lkfkgm04nMNB", --1 week
-    "jFfkgm43nvFG", --1 week
-    "NFfPFLRKkk13", --1 week
-    "Lkfjnem39MMA", --1 week
-    "LoKijdPo2mNA", --1 week
-    "GkfkDG04nMNB", --1 week
-    "EFFBkgm43nvF", --1 week
-    "ZMBFMKKkk13", --1 week 
-    "POfjnem3MMA", --1 week 
-    "KDJijdPo2mNA", --1 week
-    "L9fjn1mfsPJkW8",  --life time
-    "Ho1kod1vmjMFW3",  --life time
-    "DoiJEk3JmfKFD6",  --life time
-    "ADsmsnJ2vcFkr2",  --life time
-    "CkfmO4JNmvHFD4",   --life time
-    "Kjfjnem3MMM", --1 month
-    "Jhfdnem392M", --1 month
-    "Lkfdnem372M", --1 month
-    "HGfdnem342M", --1 month
-    "Lmfdnem322M", --1 month
-    "PIJdnem312M", --1 month
-    "LKAdnem132M", --1 month
-    "POJKdnem32M", --1 month
-    "PIJdnem324M", --1 month
-    "LOCKdnem13M", --1 month
-    "Xyz7890QWERTY", --1 days("test key")
-    "QWErty456ASD", --1 days("test key")
-    "Zxcvbnm321RTY", --1 days("test key")
-    "Hgfdsaz098PLM", --1 days("test key")
-    "Yuiop456JKL", --1 days("test key")
-    "Mnbvcxz123FGH", --1 days("test key")
-    "Qazwsx789TRE", --1 days("test key")
-    "Plmokn456VBN", --1 days("test key")
-    "Asdfghjkl123QW", --1 days("test key")
-    "Abcdef123XY",
-    "QwErTy12345", --life time(UAH)
-    "AsDfGh67890", --life time(UAH)
-    "ZxCvBn09876", --life time(UAH)
-    "QazWsX45678", --life time(UAH)
-    "PlmKoI23456", --life time(UAH)
-    "RtyUio98765", --life time(UAH)
-    "FghJkl54321", --life time(UAH)
-    "VbnMki87654", --life time(UAH)
-    "QweRty09876", --life time(UAH)
-    "ZxcVbn12345", --life time(UAH)
-    "P2x6R4a8W1y0L5", --life time(RUB)
-    "A8r1L6z5J3W0K4", --life time(RUB)
-    "L9fjn1mfsPJkW8", --life time(RUB)
-    "Ho1kod1vmjMFW3", --life time(RUB)
-    "DoiJEk3JmfKFD6", =
-    "CkfmO4JNmvHFD4", --life time(RUB)
-    "ADsmsnJ2vcFkr2", --life time(RUB)
-    "ADsmsnJ2vcFkr2", --life time(RUB)
-    "Lkfkgm04nMNB", --1Month(RUB)
-    "jFfkgm43nvFG", --1Month(RUB)
-    "NFfPFLRKkk13", --1Month(RUB)
-    "Lkfjnem39MMA", --1Month(RUB)
-    "LoKijdPo2mNA", --1Month(RUB)
-    "GkfkDG04nMNB", --1Month(RUB)
-    "EFFBkgm43nvF", --1Month(RUB)
-    "ZMBFMKKkk13", --1Month(RUB)
-    " POfjnem3MMA", --1Month(RUB)
-    "KDJijdPo2mNA", --1Month(RUB)
-    "Kjfjnem3MMM", --1week(RUB)
-    "Jhfdnem392M", --1week(RUB)
-    "Lkfdnem372M", --1week(RUB)
-    "HGfdnem342M", --1week(RUB)
-    "Lmfdnem322M", --1week(RUB)
-    "PIJdnem312M", --1week(RUB)
-    "LKAdnem132M", --1week(RUB)
-    "POJKdnem32M", --1week(RUB)
-    "PIJdnem324M", --1week(RUB)
-    "LOCKdnem13M", --1week(RUB)
-    "XyZkfgm04nMNB", --1 month(UAH)
-    "mNfkgm43nvFG", --1 month(UAH)
-    "QWfPFLRKkk13", --1 month(UAH)
-    "Abcjnem39MMA", --1 month(UAH)
-    "LmKijdPo2mNA", --1 month(UAH)
-    "RfkgDG04nMNB", --1 month(UAH)
-    "HGFbkgm43nvF", --1 month(UAH)
-    "YXBFMKKkk13", --1 month(UAH)
-    "QWOfjnem3MMA", --1 month(UAH)
-    "WERijdPo2mNA", --1 month(UAH)
-    "ZxYkfgm04nMNB", --1week(UAH)
-    "mNfkgm43nvFG", --1week(UAH)
-    "QWfPFLRKkk13", --1week(UAH)
-    "Abcjnem39MMA", --1week(UAH)
-    "LmKijdPo2mNA", --1week(UAH)
-    "RfkgDG04nMNB", --1week(UAH)
-    "HGFbkgm43nvF", --1week(UAH)
-    "YXBFMKKkk13", --1week(UAH)
-    "QWOfjnem3MMA", --1week(UAH)
-    "WERijdPo2mNA", --1week(UAH)
-    "ZxYkfgm04nMNB", --life time(USD)
-    "mNfkgm43nvFG", --life time(USD)
-    "QWfPFLRKkk13", --life time(USD)
-    "Abcjnem39MMA", --life time(USD)
-    "LmKijdPo2mNA", --life time(USD)
-    "RfkgDG04nMNB", --life time(USD)
-    "HGFbkgm43nvF", --life time(USD)
-    "YXBFMKKkk13", --life time(USD)
-    "QWOfjnem3MMA", --life time(USD)
-    "WERijdPo2mNA", --life time(USD)
-    "XyZabc1234", --1Month(USD)
-    "Dfghjk5678", --1Month(USD)
-    "Pqrstu9012", --1Month(USD)
-    "Lmnopq3456", --1Month(USD)
-    "Vwxyz7890", --1Month(USD)
-    "Abcdef1234", --1Month(USD)
-    "Ghijkl5678", --1Month(USD)
-    "Mnopqr9012", --1Month(USD)
-    "Stuvwx3456", --1Month(USD)
-    "Yzabcd7890", --1Month(USD)
-    "Qwerty1234", --1Week(USD)
-    "Asdfgh5678", --1Week(USD)
-    "Zxcvbn9012", --1Week(USD)
-    "Pqrsuv3456", --1Week(USD)
-    "Lkjhgf7890", --1Week(USD)
-    "Tghyuj1234", --1Week(USD)
-    "Bnmqwe5678", --1Week(USD)
-    "Vbnmas9012", --1Week(USD)
-    "Fghjkl3456", --1Week(USD)
-    "Rtyuio7890"
+    "K0B6X3a9U1W7m2", 
+    "C8v4N2T5L0z1P3", 
+    "Lkfkgm04nMNB", 
+    "jFfkgm43nvFG", 
+    "NFfPFLRKkk13",
+    "Lkfjnem39MMA", 
+    "LoKijdPo2mNA", 
+    "GkfkDG04nMNB",
 }
